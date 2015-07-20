@@ -56,8 +56,8 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
-  background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+  background-color: #fff;
+  background-image: url(http://i.imgur.com/zV8o3N0.png) no-repeat; }
 
 @media screen and (min-width: 64em) {
   .page-header {
@@ -230,7 +230,7 @@ a {
   font-weight: bold; }
 
 .site-footer-credits {
-  color: #819198; }
+  color: #000; }
 
 @media screen and (min-width: 64em) {
   .site-footer {
