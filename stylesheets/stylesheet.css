@@ -56,8 +56,8 @@ a {
 .page-header {
   color: #000;
   text-align: center;
-  background-color: #fff;
-  height: 120px !important; }
+  background-color: #fff; }
+  height: 120px !important;
 
 @media screen and (min-width: 64em) {
   .page-header {
